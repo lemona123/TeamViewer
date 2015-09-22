@@ -6,8 +6,6 @@
   <packaging>war</packaging>
   
   
-  
-  
     <build>
  	<finalName>TeamViewer</finalName>
   	<plugins>
